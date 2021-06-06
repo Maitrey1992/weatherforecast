@@ -9,7 +9,7 @@ import com.example.weather.weatherforcast.models.WeatherReportInfo;
 @Service
 public class WeatherReportService {
 	
-	private final String API_ID = "6443b8305b48cb5bc403bb0819931c49";
+	private final String API_ID = "<API_ID>";
 	
 	private final String WEATHER_API_URL = "http://api.openweathermap.org/data/2.5/weather?";
 	
